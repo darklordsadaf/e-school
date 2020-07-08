@@ -1,0 +1,245 @@
+    body p{
+        font-size: 18px;
+    }
+
+    header{
+        background-color: #f0fff0;
+        min-height: 600px;
+        margin-bottom: 10px;
+    }
+
+    section{
+        margin-bottom: 100px;
+    }
+
+
+/*nav-bar start*/
+    .navbar{
+        padding-top: 15px;
+    }
+
+    .nav-image{
+        width: 40%;
+    }
+
+    .nav-button{
+        color: white;
+        white-space: nowrap;
+        border: none;
+        border-radius: 30px;
+        background-color: #21b573;
+        padding: 9px 30px;
+    }
+
+    .navbar-nav li{
+        margin-left: 30px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        color: black;
+        font-size: 18px;
+    }
+
+    .nav-button:hover{
+        background-color: #b521a1;
+    }
+/*nav-bar end*/
+
+
+
+/*Header Content Start*/
+    .header-content{
+        padding-top: 40px;
+    }
+
+    #header-first-line{
+        color: #fb6735;
+    
+    }
+    .header-content h1{
+        font-size: 55px;
+        font-weight: 700;
+    }
+
+
+    .header-content span{
+        color: #21b573;
+    }
+
+    .header-text{
+        padding-right: 20px;
+    }
+
+    #header-last-line{
+        line-height: 2.2em;
+        padding: 30px 0;
+        color: #7c7e7c;
+    }
+
+    .start-button{
+        color: white;
+        border: none;
+        border-radius: 30px;
+        background-color: #21b573;
+        padding: 9px 35px;
+    }
+
+    .start-button:hover{
+        padding: 10px 40px;
+        background-color: #b521a1;
+    }
+/*Header Content End*/
+
+
+
+/*Second Section Start*/
+    .second-section{
+        border: none;
+        border-radius: 20px;
+        text-align: center;
+        margin-top: 50px;
+        background-color: #f8fffB;
+    }
+
+    .second-section h5{
+        color: #413960;
+        font-size: 25px;
+    }
+
+    .second-section p{
+        color: #7c7e7c;
+    }
+
+    .second-section img{
+        margin: auto;
+        margin-top: 50px ;
+    }
+
+    .card-2 img{
+        width: 32%;
+    }
+
+    .card-3 img{
+        width: 32%;
+    }
+
+    .card-4 img{
+        width: 30%;
+    }
+
+    .second-section:hover{
+        box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+        background-color: white;
+    }
+/*Second Section End*/
+
+
+
+
+/*Third Section Start*/
+    #third-section-header{
+        font-size: 40px;
+        color: #413960;
+        text-align: center;
+        font-weight: 700;
+        margin-bottom: 50px;
+    }
+
+    .third-section .card{
+        border: none;
+        box-shadow: 2px 2px 20px lightgray;
+        border-radius: 20px;
+    }
+
+    .third-section img{
+        padding: 20px;
+    }
+
+    .third-section h5{
+        color: #413960;
+        font-size: 25px;
+    }
+    .third-section p{
+        color: #7c7e7c;
+    }
+    .buy-button{
+        color: white;
+        border: none;
+        border-radius: 30px;
+        background-color: #21b573;
+        padding: 5px 25px;
+    }
+    .card-footer{
+        border-top: none;
+        background-color: white;
+    }
+    .card-footer img{
+        width: 60px;
+    }
+    .footer-icon{
+        margin-left: -30px;
+        color: #7c7e7c;
+        font-weight: 700;
+    }
+    .buy-button:hover{
+        background-color: #b521a1;
+        padding: 9px 30px;
+    }
+/*Third Section End*/
+
+
+
+/*Testimonial Section Start*/
+    #testimonial-section-header{
+        font-size: 40px;
+        color: black;
+        text-align: center;
+        font-weight: 700;
+        margin-bottom: 50px;
+    }
+    .testimonial-section img{
+        width: 140px;
+        margin: 0 50px;
+    }
+    .testimonial-section{
+        padding:20px 100px;
+    }
+/*Testimonial Section End*/
+
+
+/*Footer Start*/
+footer{
+    background-color: #282531;
+}
+
+.footer-section{
+    padding-top: 50px;
+}
+
+footer p,footer li {
+    color: white;
+
+}
+footer ul li a {
+    color: white;
+    font-size: 16px;
+    font-weight: normal;
+}
+footer ul li {
+    list-style: none;
+}
+footer ul {
+    padding-left: 80px;
+    white-space: nowrap;
+}
+footer li{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+footer small{
+    color: white;
+    margin: 30px auto;
+}
+/*Footer End*/
