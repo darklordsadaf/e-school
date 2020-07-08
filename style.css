@@ -177,13 +177,18 @@
         width: 60px;
     }
     .footer-icon{
-        margin-left: -30px;
+        margin-left: -25px;
         color: #7c7e7c;
-        font-weight: 700;
     }
     .buy-button:hover{
         background-color: #b521a1;
         padding: 9px 30px;
+    }
+
+    .third-section .card:hover{
+        margin: -15px;
+        background-color:#f6eedf;
+        transition-duration: 0.5s;
     }
 /*Third Section End*/
 
